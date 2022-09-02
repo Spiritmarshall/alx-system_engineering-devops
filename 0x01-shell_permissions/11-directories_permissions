@@ -1,2 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmod a+X *
+=======
+<<<<<<< HEAD
+chmod a+x
+=======
+chmod -R a=r,u=rwx
+>>>>>>> 1328ce67cc29f271b68c7361ff2c583bb186fa6c
+>>>>>>> 60084dd894d9b3fc68f32f7df48c050aed41ae00
