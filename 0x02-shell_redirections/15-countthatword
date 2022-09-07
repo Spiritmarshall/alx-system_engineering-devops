@@ -1,2 +1,2 @@
-#!/bin/bas:wqh
+#!/bin/bash
 grep -c "bin" /etc/passw
